@@ -1,0 +1,2 @@
+# LingvaTranslate
+Personal Lingva translator.
